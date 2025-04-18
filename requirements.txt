@@ -1,0 +1,5 @@
+Flask==2.3.2
+requests==2.31.0
+python-dotenv==1.0.0
+tensorflow==2.12.0  # Agar LSTM ke liye use kar rahi ho
+numpy==1.24.3
